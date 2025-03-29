@@ -1,0 +1,14 @@
+
+.invalid {
+    border-color: red !important;
+    color: red;
+    font-size: 14px;
+  }
+  .required-star:after {
+    color: red;
+    content: " *";
+     }
+ .validation-error {
+    color: red;
+    font-size: 14px;
+  }

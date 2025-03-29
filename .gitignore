@@ -1,0 +1,11 @@
+/node_modules
+/public/hot
+/public/storage
+/public/uploads
+/vendor
+/DockerSrc
+.env.example
+/.idea
+/.vscode
+/public/css/app
+/public/js/app
