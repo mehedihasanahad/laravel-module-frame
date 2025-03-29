@@ -34,20 +34,20 @@ This repository provides a modular framework for building scalable Laravel appli
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-repo/laravel-module-framework.git
-   cd laravel-module-framework
+   - git clone https://github.com/mehedihasanahad/laravel-module-frame.git
+   - cd laravel-module-framework
 
 2. Install PHP dependencies
-   composer install
+   - composer install
 
 3. Install Node.js dependencies
-   npm install
+   - npm install
 
 4. Set up the environment file
-    cp .env.example .env
+   - cp .env.example .env
 
 5. Generate the application key
-    php artisan key:generate
+   - php artisan key:generate
 
 6. Start the development server
-    php artisan serve
+   - php artisan serve
